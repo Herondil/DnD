@@ -1,7 +1,7 @@
 Chapeau de vermine
 [ Hat of Vermin ]
-Objet merveilleux, commun
-Ce chapeau possède 3 charges. Lorsque vous le tenez, vous pouvez utiliser une action pour dépenser 1 de ses charges et prononcer un mot de commande qui invoque au choix une chauve-souris,
-une grenouille ou un rat. La créature invoquée apparaît magiquement dans le chapeau et essaie de s'éloigner de vous le plus rapidement possible. La créature n'est ni amicale ni hostile, et 
-elle n'est pas sous votre contrôle. Elle se comporte comme une créature ordinaire de son espèce et disparaît après 1 heure ou si elle tombe à 0 point de vie. Le chapeau récupère toutes les 
-charges dépensées chaque jour à l'aube.
+Objet pas trÃ¨s ouf, commun
+Ce chapeau possÃ¨de 3 charges. Lorsque vous le tenez, vous pouvez utiliser une action pour dÃ©penser 1 de ses charges et prononcer un mot de commande qui invoque au choix une chauve-souris,
+une grenouille ou un rat. La crÃ©ature invoquÃ©e apparaÃ®t magiquement dans le chapeau et essaie de s'Ã©loigner de vous le plus rapidement possible. La crÃ©ature n'est ni amicale ni hostile, et 
+elle n'est pas sous votre contrÃ´le. Elle se comporte comme une crÃ©ature ordinaire de son espÃ¨ce et disparaÃ®t aprÃ¨s 1 heure ou si elle tombe Ã  0 point de vie. Le chapeau rÃ©cupÃ¨re toutes les 
+charges dÃ©pensÃ©es chaque jour Ã  l'aube.
